@@ -2,3 +2,5 @@ Ngày thứ 2 thử nghiệm gitlab
 Ngày thứ 3: thứ 3
 
 S3: nhanh developer
+
+S4: Dev 01 vừa code vao line nay, nhanh dev 01
